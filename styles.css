@@ -1,0 +1,47 @@
+@charset "utf-8";
+
+body
+
+{
+	margin: 0px;
+	padding: 0px:
+	background-color:white;
+	font-family: Arial, Helvetica, "sans-serif";
+	font-size: 18px;
+	text-align: center;
+ 	list-style-position: inside;
+}
+
+#page
+{
+	width:800px;
+	margin: 20px auto;
+	padding: 30px;
+	background-color: #bfa475;
+}
+
+#header
+{
+	padding:5px;
+	color: #655035;
+	text-align: center;
+}
+
+img
+{
+	border: double 10px white;
+}
+
+#right-column
+{
+	overflow:auto;
+	width:350px;
+	text-align:center;
+}
+
+.list
+{
+	color:#333300;
+}
+
+#right-column h2 {font-size: 1.2rem; font-weight: bold;}
